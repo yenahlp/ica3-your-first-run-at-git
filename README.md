@@ -2,6 +2,20 @@
 
 Welcome to your first run at Git! This is a simple exercise to get you familiar with the basics of Git and GitHub.
 
+## Tutorial of Git and GitHub
+- Step 1: make sure you have Git installed on your computer. If you don't, you can download it here: https://git-scm.com/downloads
+- Step 2: create a GitHub account if you haven't already.
+- Step 3: create a new folder on your computer for this project. Name it whatever you want (ICA3 is a good choice).
+- Step 4: Open VS Code to the folder you just made and open a terminal window.
+- Step 5: Within Github.com on the page of this assignmennt, click the green "Code" button and copy the URL.
+- Step 6: In the terminal window, type `git clone <URL>` where `<URL>` is the URL you copied from GitHub. This will download the repository to your computer.
+- Step 7: Open the folder in VS Code and make any changes to the files.
+- Step 8: In the terminal window, type `git status` to see which files have been changed.
+- Step 9: Type `git add <filename>` for each file you want to commit. You can also type `git add .` or `git add --all` to add all files that have been changed.
+- Step 10: Type `git commit -m "<message>"` where `<message>` is a short message about the changes you made.
+- Step 11: Type `git push` to push your changes to GitHub.
+- Step 12: Go to GitHub and refresh the page. You should see your changes there.
+
 ## Instructions
 - Q1. Insert your name and today's date as a comment in the <head> of the html document
 - Q2. Change the html title to the topic of your choice
