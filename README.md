@@ -7,7 +7,7 @@ Welcome to your first run at Git! This is a simple exercise to get you familiar 
 - Step 2: create a GitHub account if you haven't already.
 - Step 3: create a new folder on your computer for this project. Name it whatever you want (ICA3 is a good choice).
 - Step 4: Open VS Code to the folder you just made and open a terminal window.
-- Step 5: Within Github.com on the page of this assignmennt, click the fork button in the top right corner. This will create a copy of this repository in your GitHub account.
+- Step 5: Navigate back to Github.com on the page of this assignmennt, click the fork button in the top right corner. This will create a copy of this repository in your GitHub account.
 - Step 6: In the terminal window, type `git clone <url>` where `<url>` is the URL of your forked repository. You can find the URL by clicking the green "Code" button on your repository's main page.
 - Step 7: Open the folder in VS Code and make any changes to the files.
 - Step 8: In the terminal window, type `git status` to see which files have been changed.
